@@ -59,15 +59,8 @@ body {
 .banner {
     position: relative;
 	margin-bottom: -20px;
-    opacity: 0;
-    transition: opacity 1s ease-in-out;
 }
 
-.banner.visible {
-    opacity: 1;
-}
-    
-}
 .banner1 img {width:100%; height: auto}
 .banner img {
     width: 100%;
